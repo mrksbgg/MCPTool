@@ -251,7 +251,7 @@
         "rconInvalidPassword": "\n%spaces%%prefix% &f&lНеверный пароль. Проверьте пароль.",
         "rconUnknownError": "\n%spaces%%prefix% &f&lНе удалось подключиться к RCON серверу. Проверьте логи для большей информации.",
         "commandsFileEmpty": "\n%spaces%%prefix% &f&lФайл с командами пуст. Добавьте туда команды и попробуйте снова.",
-        "noSubdomainsFoundResolver": "\n%spaces%%prefix% &f&lNo subdomains found in the entered domain.",
+        "noSubdomainsFoundResolver": "\n%spaces%%prefix% &f&lПоддомены не были найдены.",
         "invalidLanguage": "\n%spaces%%prefix% &f&lПроверьте корректность языка. Проверьте ввод и повторите попытку.",
         "invalidIntgerInput": "\n%spaces%%prefix% &f&lВведенное значение не является допустимым целым числом. Проверьте ввод и повторите попытку.",
         "invalidBooleanInput": "\n%spaces%%prefix% &f&lВведенное значение не является допустимым логическим значением. Проверьте ввод и повторите попытку.",
